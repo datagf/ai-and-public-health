@@ -7,6 +7,7 @@ Instructor: Robert Monarch
 Files:
 1. Air Quality - Explore the Data.zip
 2. Air Quality - Design Phase.zip
+3. Air Quality - Design (wrap up) and Implement your Product.zip
 
 ## Motivation
 
