@@ -5,13 +5,8 @@ Author: DeepLearning.AI (DLAI)
 Instructor: Robert Monarch
 
 Files:
-* RMCAB_air_quality_sensor_data.csv
-* stations_loc.csv
-* C1_W2_L1_Air_Quality_Explore_Phase.ipynb
-* C1_W2_L1_Air_Quality_Explore_Phase-checkpoint.ipynb
-* utils.py
-* datasheet.md
-* utils.cpython-37.pyc
+1. Air Quality - Explore the Data.zip
+2. Air Quality - Design Phase.zip
 
 ## Motivation
 
