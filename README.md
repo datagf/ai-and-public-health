@@ -17,4 +17,4 @@ Files:
 
 "The AI and Public Health course is designed to introduce learners to the concept of using artificial intelligence to address social and environmental issues."
 
-For more information, please visit: [https://www.coursera.org/specializations/ai-for-good](https://www.coursera.org/learn/ai-and-public-health)https://www.coursera.org/learn/ai-and-public-health
+For more information, please visit: [AI and Public Health](https://www.coursera.org/learn/ai-and-public-health)
